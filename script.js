@@ -56,11 +56,6 @@ if(symbols){
   randomize.push(...sym);
 } 
 
-// clears the textarea if PW was previously generated
-while(pwArray.length > 0) {
-  pwArray.pop();
-}
-
   // for loop goes here
   for (var i = 0; i < pwLength; i++){
     pwArray.push(randomize[Math.floor(Math.random() * randomize.length -1)])
