@@ -12,7 +12,7 @@ This project was to create an application that generates a random password based
   * script.js - to make it function with the HTML and CSS inorder for the application to generate.
 
 ### Project Acceptance Criteria
-   User must click button in order to be prompted to answer a few questions about length and password criteria. Once user has selected the length and password criteria it will be validated. After the validation process a password will be generated into the <textarea> of the HTML that matches the selected criteria. 
+   User must click button in order to be prompted to answer a few questions about length and password criteria. Once user has selected the length and password criteria it will be validated. After the validation process a password will generate into the placeholder of the <textarea> in the HTML that matches the selected criteria. 
 
 
 ## Acknowledgement
