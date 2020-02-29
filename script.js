@@ -38,7 +38,7 @@ function buttonClicked() {
 
   // Confirming if user wants uppercase letters
   if (upperCase) {
-    randomize.push(upper);
+    randomize.push(...upper);
   }
 
   // Confirming if user wants lowercase letters
